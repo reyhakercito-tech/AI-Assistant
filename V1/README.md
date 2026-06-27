@@ -18,7 +18,7 @@ An interactive, local voice assistant that uses Local LLMs (via LM Studio) and X
 ## 📦 Setup & Installation
 
 0. **Clone the repository:**
-   git clone https://github.com/reyhakercito-tech/AI-Assistant/tree/main/V1.git
+   git clone https://github.com/reyhakercito-tech/AI-Assistant.git
    cd AI-Assistant
 
 1. Create and activate a virtual environment:
